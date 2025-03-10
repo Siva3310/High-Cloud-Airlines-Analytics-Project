@@ -69,8 +69,10 @@ Additional insights from the overview dashboard:
 
 
 ### Dashboard Images
-![Dashboard Image 1](./Screenshot%20(265).png)
-![Dashboard Image 2](./Screenshot%20(266).png)
+![Dashboard Image 1]![Screenshot (265)](https://github.com/user-attachments/assets/2b4b85e3-2764-40ef-a1a6-e11816f89dad)
+
+![Dashboard Image 2]![Screenshot (266)](https://github.com/user-attachments/assets/f4f3e82f-a017-4458-8969-6fd02dc146d0)
+
 
 > **Note:** Replace the image paths with the actual relative paths if they differ.
 
@@ -111,4 +113,3 @@ Thank you for exploring the High Cloud Airlines Analytics Project! We appreciate
 
 ---
 
-**Repository Structure** (example)
